@@ -151,3 +151,5 @@ cd ..
 ls --color=auto -l
 rm header.png
 rm footer.jpeg
+__vsc_prompt_cmd_original
+ls --color=auto -l
