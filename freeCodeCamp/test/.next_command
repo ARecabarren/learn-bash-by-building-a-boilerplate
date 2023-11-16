@@ -155,3 +155,4 @@ __vsc_prompt_cmd_original
 ls --color=auto -l
 mv roboto.font roboto.woff
 ls --color=auto -l
+mv lato.font lato.ttf
