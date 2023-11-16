@@ -119,3 +119,4 @@ ls --color=auto --help
 ls --color=auto -l -all
 ls --color=auto -l -a
 ls --color=auto -a
+cd .
