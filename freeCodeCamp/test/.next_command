@@ -156,3 +156,4 @@ ls --color=auto -l
 mv roboto.font roboto.woff
 ls --color=auto -l
 mv lato.font lato.ttf
+mv menlo.font menlo.otf
