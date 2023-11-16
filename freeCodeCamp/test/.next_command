@@ -194,3 +194,6 @@ mv header.png ./..
 ls --color=auto -l
 cd ..
 ls --color=auto -l
+mv header.png client/assets/images/
+find images/
+find -name images
