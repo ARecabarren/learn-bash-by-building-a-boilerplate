@@ -126,3 +126,4 @@ touch footer.jpeg
 list -l
 ls --color=auto -l
 touch roboto.font
+touch lato.font
