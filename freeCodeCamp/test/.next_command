@@ -177,3 +177,6 @@ find --gelp
 find --help
 find -name index.html
 find -name styles.css
+find -lname styles.css
+find -lname styles.css
+find -name src
